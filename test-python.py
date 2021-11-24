@@ -1,8 +1,8 @@
-# test !/usr/bin/env python
+
 # -*- coding: utf-8 -*-
 # ******************************
-# **       BullDocker         **
-# ** Date  : 18/05/2019       **
+# ** Test  : Jsora1           **
+# ** Date  : 24/11/2021       **
 # ** Author: ADL DevOps Team  **
 # ******************************
 from sys import exit
